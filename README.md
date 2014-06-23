@@ -16,4 +16,7 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 * No coffee no snacks = unhappy!
 
 
-* Use git! 
+* Use git! It has a learning curve, but it will make you life better. 
+
+-------
+* Operator Overloading, that seems fun and maybe dangerous.....
