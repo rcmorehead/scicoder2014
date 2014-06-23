@@ -20,3 +20,4 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 
 -------
 * Operator Overloading, that seems fun and maybe dangerous.....
+* Stop doing `from foo import *`
