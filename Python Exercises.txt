@@ -1,0 +1,9 @@
+Python Exercises:
+
+1) Parse the file data/table.txt into a Python dictionary of lists. Each key in the dictionary should be a column name.
+
+2) Count how many lines, and words there are in the Gettysburg Address (in data/gettysburg_address.txt).
+
+3) Count how many of each vowel there are in the GA, print this out.
+
+4) Sort the words in the address alphabetically, and remove duplicate words. Re-write this to a file.
