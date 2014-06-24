@@ -35,4 +35,8 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 * Use 'Lazy Loading' Only load data when you need it, not before. 
 * test you code, checkout pytest 
 * If you find a bug, add a test for that bug to your test script and then you will spot it if it comes back
-* 
+
+-----------------
+* Astropy
+* No coffee at all today 
+* Travis CI - Oh that is super cool. 
