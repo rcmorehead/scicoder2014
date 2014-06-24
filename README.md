@@ -23,3 +23,8 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 * Stop doing `from foo import *`
 * Singleton - make one unique object that is always the same object no matter how many times you call it. Very handy.......
 * Oh yeah, I always forget that sets are a thing
+
+---------
+##Day 2
+* Objects are fun!
+* 
