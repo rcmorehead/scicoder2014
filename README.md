@@ -39,4 +39,12 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 -----------------
 * Astropy
 * No coffee at all today 
-* Travis CI - Oh that is super cool. 
+* Travis CI - Oh that is super cool. It auto runs tests for each build of your code. 
+* Astropy is very eager for contributions 
+-------------
+##Day 3
+* Oh sure, the morning I buy coffee they get coffee. 
+* Document your code
+* Databases! 
+* Databases = linking tables with unique items 
+* 
