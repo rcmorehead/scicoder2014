@@ -47,4 +47,7 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 * Document your code
 * Databases! 
 * Databases = linking tables with unique items 
+* SQLlite for small things, postgresql for bigger things - multiple users
+* Oracle is crazy expansive 
+* You might want to create a database when you get > few thousand entries or when you need to match/cross-correlate among many datasets
 * 
