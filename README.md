@@ -41,6 +41,7 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 * No coffee at all today 
 * Travis CI - Oh that is super cool. It auto runs tests for each build of your code. 
 * Astropy is very eager for contributions 
+
 -------------
 ##Day 3
 * Oh sure, the morning I buy coffee they get coffee. 
@@ -50,4 +51,11 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 * SQLlite for small things, postgresql for bigger things - multiple users
 * Oracle is crazy expansive 
 * You might want to create a database when you get > few thousand entries or when you need to match/cross-correlate among many datasets
+* sqlalchemy is your friend
+* Oooh, custom behavior in the model classes specification
+* Use sessions, you want everything to work or fail. In database there is no undo 
+
+-------------
+## Day 4
+* More database fun
 * 
