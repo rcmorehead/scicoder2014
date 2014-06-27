@@ -63,5 +63,5 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 --------
 ## Day 5 
 * matplotlib
-* errr no wait, regular expressions instead
+* errr no wait, regular expressions instead [pdf](9 - Introduction to Regular Expressions.pdf )
 * 
