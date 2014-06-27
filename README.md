@@ -28,7 +28,7 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 ##Day 2
 * Objects are fun!
 * Numpy!
-* Neat trick, you can make bumpy arrays immutable 
+* Neat trick, you can make numpy arrays immutable 
 	* `array.flags.writeable = False`
 * Use numpy functions only on numpy arrays 
 * @property decorator can make methods into properties 
@@ -58,4 +58,10 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 -------------
 ## Day 4
 * More database fun
+* and then some R
+
+--------
+## Day 5 
+* matplotlib
+* errr no wait, regular expressions instead
 * 
