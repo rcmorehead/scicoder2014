@@ -62,6 +62,10 @@ $$f(\omega) = sin(\omega - 1)^{w + 1}$$
 
 --------
 ## Day 5 
-* matplotlib
+* matplotlib (no matplotlib)
 * errr no wait, regular expressions instead [pdf](9 - Introduction to Regular Expressions.pdf )
+* Scipy exists
+* Logging way more handy then print statements!
+* argparse is more advances command line argumments 
+* hmmm, found good color scheme
 * 
